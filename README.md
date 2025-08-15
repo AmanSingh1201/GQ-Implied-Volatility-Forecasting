@@ -20,7 +20,7 @@ LightGBM, Time Series Forecasting, Feature Engineering, Order Book Analysis, Mar
 - `qcoin_iv_kaggle_notebook.py` — Kaggle-ready pipeline (auto-split into cells).
 - `submission.csv` — Predictions in competition format.
 - `qcoin_iv_report.pdf` — 1-page summary report (objective → features → validation → results → trading use).
-- `EMAIL_SUBMISSION_TEMPLATE.txt` — Copy/paste email for GoQuant submission.
+
 
 ## ✅ How to Run on Kaggle
 1. Kaggle → **Code → New Notebook → Upload** → select `qcoin_iv_kaggle_notebook.py`.
